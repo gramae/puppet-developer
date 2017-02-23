@@ -1,0 +1,1 @@
+﻿echo "hello world" > /home/build/hello_world.txt
